@@ -5,6 +5,7 @@
 #endif
 
 #include <ctype.h>
+#include <crypt.h>
 #include <pwd.h>
 #include <stdarg.h>
 #include <stdlib.h>
